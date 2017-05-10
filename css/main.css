@@ -88,6 +88,18 @@ i{
     color: rgb(0, 95, 99) !important; 
     margin: 10px 0;
 }
+
+.m-bottom-mobile p{
+    margin-bottom: -20px !important;
+}
+
+/* small {
+    font-family: 'quicksandlight', Arial; 
+    font-size: 16px;
+    text-align: center !important;
+    margin-bottom: -30px !important; 
+} */
+
 .especialidades-reconhecidas{
     font-size: 24px;
     text-align: center; 
@@ -231,3 +243,4 @@ footer{
 .mdl-spinner--single-color .mdl-spinner__layer-4 {
     border-color: rgb(0, 95, 99) !important;
 }
+
